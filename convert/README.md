@@ -1,8 +1,5 @@
 # テキスト変換
 ## WP_0011
-### 環境
-- Windows10 64bit
-- Python3.5
 ### 機能
 google docsからWordPressへコピーした際のHTMLの整形のため、クリップボードのテキストに以下の変換を行う。
 - \<span style="font-weight: 400;">→削除
@@ -13,8 +10,10 @@ google docsからWordPressへコピーした際のHTMLの整形のため、ク�
 実行すると変換した数が表示される。変換内容を確認できる。
 
 ※変換内容は任意で変更してください。
-
-### 使い方(Windows)
+### 環境
+- Windows10 64bit
+- Python3.5
+### 使い方
 #### 準備
 1. WP_0011.py, WP_0011.batを同じフォルダに保存
 2. WP_0011.bat内のコードを絶対パスに変更
