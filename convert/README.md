@@ -1,5 +1,8 @@
 # テキスト変換
 ## WP_0011
+### 環境
+- Windows10 64bit
+- Python3.5
 ### 機能
 google docsからWordPressへコピーした際のHTMLの整形のため、クリップボードのテキストに以下の変換を行う。
 - \<span style="font-weight: 400;">→削除
