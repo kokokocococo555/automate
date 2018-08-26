@@ -20,3 +20,6 @@ google docsからWordPressへコピーした際のHTMLの整形のため、ク�
 1. 変換したいテキストをコピー
 2. 「Windows + R」で「ファイル名を指定して実行」を起動し、「WP_0011.bat」と入力、実行
 3. 変換後のテキストがクリップボードに保存され、変換結果がメッセージウインドウで表示される
+### 参考
+- [『退屈なことはPythonにやらせよう――ノンプログラマーにもできる自動化処理プログラミング』O'Reilly Japan](https://www.oreilly.co.jp/books/9784873117782/)
+- [Python から Windows API を呼び出す - MessageBox の例 - Python 入門](https://python.keicode.com/advanced/ctypes-messagebox.php)
