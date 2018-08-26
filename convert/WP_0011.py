@@ -4,6 +4,9 @@
 # ２．</span>→削除
 # ３．### , ## , # ,→削除
 # ４．h3>→h4>, h2>→h3>
+## 参考
+## [『退屈なことはPythonにやらせよう――ノンプログラマーにもできる自動化処理プログラミング』O'Reilly Japan](https://www.oreilly.co.jp/books/9784873117782/)
+## [Python から Windows API を呼び出す - MessageBox の例 - Python 入門](https://python.keicode.com/advanced/ctypes-messagebox.php)
 
 import pyperclip
 import re
